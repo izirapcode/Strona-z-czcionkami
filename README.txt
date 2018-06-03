@@ -1,0 +1,1 @@
+Aplikacja przechowujaca i prezentujaca pliki czcionek. Wykorzystany WebService oraz JSP.
